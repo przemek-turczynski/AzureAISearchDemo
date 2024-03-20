@@ -1,0 +1,1457 @@
+{
+  "Values": [
+    {
+      "id": "1",
+      "HotelId": 1,
+      "Name": "Secret Point Hotel",
+      "Description": "This classic hotel is ideally located on the main commercial artery of the city in the heart of New York. A few minutes away is Time's Square and the historic centre of the city, as well as other places of interest that make New York one of America's most attractive and cosmopolitan cities.",
+      "Category": "Boutique",
+      "Tags": [
+        "view",
+        "air conditioning",
+        "concierge"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2017-01-18T00:00:00Z",
+      "Rating": 3.6,
+      "Address": {
+        "StreetAddress": "677 5th Ave",
+        "City": "New York",
+        "StateProvince": "NY",
+        "PostalCode": "10022",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -73.975403,
+          40.760586
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "HotelId": 2,
+      "Name": "Twin Dome Motel",
+      "Description": "The hotel is situated in a nineteenth century plaza, which has been expanded and renovated to the highest architectural standards to create a modern, functional and first-class hotel in which art and unique historical elements coexist with the most modern comforts. The hotel also regularly hosts events like wine tastings, beer dinners, and live music.",
+      "Category": "Boutique",
+      "Tags": [
+        "pool",
+        "free wifi",
+        "concierge"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2019-02-18T00:00:00Z",
+      "Rating": 3.6,
+      "Address": {
+        "StreetAddress": "140 University Town Center Dr",
+        "City": "Sarasota",
+        "StateProvince": "FL",
+        "PostalCode": "34243",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -82.452843,
+          27.384417
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "HotelId": 3,
+      "Name": "Triple Landscape Hotel",
+      "Description": "The Triple L Hotel stands out for its gastronomic excellence under the management of William Dough, who advises on and oversees all of the Hotel’s restaurant services.",
+      "Category": "Suite",
+      "Tags": [
+        "restuarant",
+        "bar",
+        "continental breakfast"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2015-09-20T00:00:00Z",
+      "Rating": 4.8,
+      "Address": {
+        "StreetAddress": "3393 Peachtree Rd",
+        "City": "Atlanta",
+        "StateProvince": "GA",
+        "PostalCode": "30326",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -84.362465,
+          33.846432
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "HotelId": 4,
+      "Name": "Sublime Cliff Hotel",
+      "Description": "Sublime Cliff Hotel is located in the heart of the historic center of Sublime in an extremely vibrant and lively area within short walking distance to the sites and landmarks of the city and is surrounded by the extraordinary beauty of churches, buildings, shops and monuments. Sublime Cliff is part of a lovingly restored 1800 palace.",
+      "Category": "Boutique",
+      "Tags": [
+        "concierge",
+        "view",
+        "air conditioning"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2016-02-06T00:00:00Z",
+      "Rating": 4.6,
+      "Address": {
+        "StreetAddress": "7400 San Pedro Ave",
+        "City": "San Antonio",
+        "StateProvince": "TX",
+        "PostalCode": "78216",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -98.495422,
+          29.518398
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "HotelId": 5,
+      "Name": "Scarlet Harbor Hotel",
+      "Description": "On entering this charming hotel in Scarlet Harbor, you will immediately sense its special intimate atmosphere that makes you feel like being in your own home. Each detail has been passionately chosen and each room deserves a visit. The style mixes valuable antiques and original artworks with an unexpected eclectic contemporary twist. The entire hotel recalls times past where young aristocrats lived while discovering the beauty and the artistic mysteries of the area.",
+      "Category": "Boutique",
+      "Tags": [
+        "24-hour front desk service",
+        "bar",
+        "free parking"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2011-12-07T00:00:00Z",
+      "Rating": 4.1,
+      "Address": {
+        "StreetAddress": "800 Boylston St",
+        "City": "Boston",
+        "StateProvince": "MA",
+        "PostalCode": "02199",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -71.082466,
+          42.347179
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "HotelId": 6,
+      "Name": "King's Palace Hotel",
+      "Description": "Newest kid on the downtown block. Steps away from the most popular destinations in downtown, enjoy free WiFi, an indoor rooftop pool & fitness center, 24 Grab'n'Go & drinks at the bar",
+      "Category": "Suite",
+      "Tags": [
+        "free wifi",
+        "pool",
+        "bar"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2015-03-20T00:00:00Z",
+      "Rating": 3.5,
+      "Address": {
+        "StreetAddress": "555 California St",
+        "City": "San Francisco",
+        "StateProvince": "CA ",
+        "PostalCode": "94104",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.403481,
+          37.792259
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "HotelId": 7,
+      "Name": "Rose Motel",
+      "Description": "Perfect Location on Main Street. Earn points while enjoying close proximity to the city's best shopping, restaurants, and attractions.",
+      "Category": "Budget",
+      "Tags": [
+        "free parking",
+        "24-hour front desk service",
+        "coffee in lobby"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2016-07-02T00:00:00Z",
+      "Rating": 4.7,
+      "Address": {
+        "StreetAddress": "9 Great Oaks Blvd,",
+        "City": "San Jose",
+        "StateProvince": "CA ",
+        "PostalCode": "95119",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -121.781952,
+          37.242077
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "HotelId": 8,
+      "Name": "Sapphire Suites",
+      "Description": "Downtown in the heart of the business district. Close to everything. Leave your car behind and walk to the park, shopping, and restaurants.",
+      "Category": "Suite",
+      "Tags": [
+        "free wifi",
+        "continental breakfast",
+        "air conditioning"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2003-07-23T00:00:00Z",
+      "Rating": 4.0,
+      "Address": {
+        "StreetAddress": "7535 Dadeland Mall",
+        "City": "Miami",
+        "StateProvince": "FL",
+        "PostalCode": "33156",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -80.312546,
+          25.689901
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "HotelId": 9,
+      "Name": "Smile Hotel",
+      "Description": "Experience the fresh, modern downtown. Enjoy updated rooms, bold style & prime location. Don't miss our weekend live music series featuring who's new/next on the scene.",
+      "Category": "Suite",
+      "Tags": [
+        "view",
+        "concierge",
+        "bar"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2018-07-12T00:00:00Z",
+      "Rating": 4.2,
+      "Address": {
+        "StreetAddress": "1 Market",
+        "City": "San Francisco",
+        "StateProvince": "CA ",
+        "PostalCode": "94105",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.394234,
+          37.793369
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "HotelId": 10,
+      "Name": "Country Home",
+      "Description": "Save up to 50% off traditional hotels. Free WiFi, great location near downtown, full kitchen, washer & dryer, 24/7 support, bowling alley, fitness center and more.",
+      "Category": "Extended-Stay",
+      "Tags": [
+        "24-hour front desk service",
+        "laundry service",
+        "free wifi"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2009-09-06T00:00:00Z",
+      "Rating": 2.7,
+      "Address": {
+        "StreetAddress": "6910 Fayetteville Rd",
+        "City": "Durham",
+        "StateProvince": "NC",
+        "PostalCode": "27713",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -78.940483,
+          35.90416
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "HotelId": 11,
+      "Name": "Regal Orb Residence Inn",
+      "Description": "Your home away from home. Brand new fully equipped premium rooms, fast WiFi, full kitchen, washer & dryer, fitness center. Inner courtyard includes water features and outdoor seating. All units include fireplaces and small outdoor balconies. Pets accepted.",
+      "Category": "Extended-Stay",
+      "Tags": [
+        "free wifi",
+        "free parking",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2020-11-26T00:00:00Z",
+      "Rating": 2.5,
+      "Address": {
+        "StreetAddress": "22422 29th Dr SE",
+        "City": "Bothell",
+        "StateProvince": "WA",
+        "PostalCode": "98021",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.1967,
+          47.79454
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "HotelId": 12,
+      "Name": "Winter Panorama Resort",
+      "Description": "Plenty of great skiing, outdoor ice skating, sleigh rides, tubing and snow biking. Yoga, group exercise classes and outdoor hockey are available year-round, plus numerous options for shopping as well as great spa services. Newly-renovated with large rooms, free 24-hr airport shuttle & a new restaurant. Rooms/suites offer mini-fridges & 49-inch HDTVs.",
+      "Category": "Resort and Spa",
+      "Tags": [
+        "restaurant",
+        "bar",
+        "pool"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2008-09-16T00:00:00Z",
+      "Rating": 4.5,
+      "Address": {
+        "StreetAddress": "9025 SW Hillman Ct",
+        "City": "Wilsonville",
+        "StateProvince": "OR",
+        "PostalCode": "97070",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.770576,
+          45.322392
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "HotelId": 13,
+      "Name": "Historic Lion Resort",
+      "Description": "Unmatched Luxury. Visit our downtown hotel to indulge in luxury accommodations. Moments from the stadium, we feature the best in comfort",
+      "Category": "Budget",
+      "Tags": [
+        "bar",
+        "concierge",
+        "restaurant"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2016-03-18T00:00:00Z",
+      "Rating": 4.1,
+      "Address": {
+        "StreetAddress": "3 Cityplace Dr",
+        "City": "St. Louis",
+        "StateProvince": "MO",
+        "PostalCode": "63141",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -90.44081,
+          38.67219
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "HotelId": 14,
+      "Name": "Twin Vertex Hotel",
+      "Description": "New experience in the Making. Be the first to experience the luxury of the Twin Vertex. Reserve one of our newly-renovated guest rooms today.",
+      "Category": "Luxury",
+      "Tags": [
+        "bar",
+        "restaurant",
+        "concierge"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2020-11-14T00:00:00Z",
+      "Rating": 4.4,
+      "Address": {
+        "StreetAddress": "1950 N Stemmons Fw",
+        "City": "Dallas",
+        "StateProvince": "TX",
+        "PostalCode": "75207",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -96.819412,
+          32.800762
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "HotelId": 15,
+      "Name": "Peaceful Market Hotel",
+      "Description": "Book now and Save up to 30%. Central location. Steps from Empire State Building & Times Square, in Chelsea neighborhood. Brand new rooms. Impeccable service.",
+      "Category": "Budget",
+      "Tags": [
+        "coffee in lobby",
+        "free wifi",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2013-10-30T00:00:00Z",
+      "Rating": 3.3,
+      "Address": {
+        "StreetAddress": "11 Times Sq",
+        "City": "New York",
+        "StateProvince": "NY",
+        "PostalCode": "10036",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -73.989792,
+          40.756729
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "HotelId": 16,
+      "Name": "Double Sanctuary Resort",
+      "Description": "5* Luxury Hotel - Biggest Rooms in the city.  #1 Hotel in the area listed by Conde Nast Traveler. Free WiFi, Flexible check in/out, Fitness Center & Nespresso in room.",
+      "Category": "Resort and Spa",
+      "Tags": [
+        "view",
+        "pool",
+        "restaurant",
+        "bar",
+        "continental breakfast"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2019-08-05T00:00:00Z",
+      "Rating": 4.2,
+      "Address": {
+        "StreetAddress": "2211 Elliott Ave",
+        "City": "Seattle",
+        "StateProvince": "WA",
+        "PostalCode": "98121",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.347771,
+          47.61166
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "HotelId": 17,
+      "Name": "Antiquity Hotel",
+      "Description": "In vogue since 1888, the Antiquity Hotel takes you back to bygone era. From the crystal chandeliers that adorn the Green Room, to the arched ceilings of the Grand Hall, the elegance of old New York beckons. Elevate Your Experience. Upgrade to a premiere city skyline view for less, where old world charm combines with dramatic views of the city, local cathedral and midtown.",
+      "Category": "Boutique",
+      "Tags": [
+        "view",
+        "concierge",
+        "bar"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2015-10-10T00:00:00Z",
+      "Rating": 4.5,
+      "Address": {
+        "StreetAddress": "8th Ave",
+        "City": "New York",
+        "StateProvince": "NY",
+        "PostalCode": "10014",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -74.003571,
+          40.738651
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "HotelId": 18,
+      "Name": "Oceanside Luxury Resort",
+      "Description": "New Luxury Hotel. Be the first to stay. Bay views from every room, location near the pier, rooftop pool, waterfront dining & more.",
+      "Category": "Budget",
+      "Tags": [
+        "view",
+        "pool",
+        "restaurant"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2020-11-14T00:00:00Z",
+      "Rating": 4.2,
+      "Address": {
+        "StreetAddress": "5426 Bay Center Dr",
+        "City": "Tampa",
+        "StateProvince": "FL",
+        "PostalCode": "33609",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -82.537735,
+          27.943701
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "HotelId": 19,
+      "Name": "Universe Motel",
+      "Description": "Local, family-run hotel in bustling downtown Redmond. We are a pet-friendly establishment, near expansive Marymoor park, haven to pet owners, joggers, and sports enthusiasts. Close to the highway and just a short drive away from major cities.",
+      "Category": "Budget",
+      "Tags": [
+        "coffee in lobby",
+        "free wifi",
+        "free parking"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2019-11-21T00:00:00Z",
+      "Rating": 2.9,
+      "Address": {
+        "StreetAddress": "15255 NE 40th",
+        "City": "Redmond",
+        "StateProvince": "WA",
+        "PostalCode": "98052",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.13694,
+          47.644508
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "HotelId": 20,
+      "Name": "Esport Resort",
+      "Description": "The Best Gaming Resort in the area. With elegant rooms & suites, pool, cabanas, spa, brewery & world-class gaming. This is the best place to play, stay & dine.",
+      "Category": "Resort and Spa",
+      "Tags": [
+        "continental breakfast",
+        "bar",
+        "pool"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2014-10-31T00:00:00Z",
+      "Rating": 4.2,
+      "Address": {
+        "StreetAddress": "3400 Menaul Blvd NE",
+        "City": "Albuquerque",
+        "StateProvince": "NM",
+        "PostalCode": "87107",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -106.605949,
+          35.1087
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "HotelId": 21,
+      "Name": "Nova Hotel",
+      "Description": "1 Mile from the airport. Free WiFi, Outdoor Pool, Complimentary Airport Shuttle, 6 miles from Lake Lanier & 10 miles from downtown. Our business center includes printers, a copy machine, fax, and a work area.",
+      "Category": "Suite",
+      "Tags": [
+        "pool",
+        "continental breakfast",
+        "free parking"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2003-10-19T00:00:00Z",
+      "Rating": 3.6,
+      "Address": {
+        "StreetAddress": "4400 Ashford Dunwoody Rd NE",
+        "City": "Atlanta",
+        "StateProvince": "GA",
+        "PostalCode": "30346",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -84.34153,
+          33.923931
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "HotelId": 22,
+      "Name": "Stone Lion Inn",
+      "Description": "Full breakfast buffet for 2 for only $1. Excited to show off our room upgrades, faster high speed WiFi, updated corridors & meeting space. Come relax and enjoy your stay.",
+      "Category": "Budget",
+      "Tags": [
+        "laundry service",
+        "free wifi",
+        "restaurant"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2020-09-18T00:00:00Z",
+      "Rating": 3.9,
+      "Address": {
+        "StreetAddress": "16021 NE 36th Way",
+        "City": "Redmond",
+        "StateProvince": "WA",
+        "PostalCode": "98052",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.126381,
+          47.640656
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "HotelId": 23,
+      "Name": "Days Hotel",
+      "Description": "Mix and mingle in the heart of the city. Shop and dine, mix and mingle in the heart of downtown, where fab lake views unite with a cheeky design.",
+      "Category": "Budget",
+      "Tags": [
+        "air conditioning",
+        "laundry service",
+        "free wifi"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2019-09-16T00:00:00Z",
+      "Rating": 4.2,
+      "Address": {
+        "StreetAddress": "550 Kirkland Way",
+        "City": "Kirkland",
+        "StateProvince": "WA",
+        "PostalCode": "98033",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.198074,
+          47.676857
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "HotelId": 24,
+      "Name": "La Vista Hotel",
+      "Description": "Chic hotel near the city. High-rise hotel in downtown, within walking distance to theaters, art galleries, restaurants and shops. Visit Seattle Art Museum by day, and then head over to Benaroya Hall to catch the evening's concert performance.",
+      "Category": "Suite",
+      "Tags": [
+        "view",
+        "pool",
+        "bar"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2018-08-25T00:00:00Z",
+      "Rating": 3.5,
+      "Address": {
+        "StreetAddress": "600 Pine St",
+        "City": "Seattle",
+        "StateProvince": "WA",
+        "PostalCode": "98101",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.335114,
+          47.612839
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "HotelId": 25,
+      "Name": "Scottish Inn",
+      "Description": "Newly Redesigned Rooms & airport shuttle. Minutes from the airport, enjoy lakeside amenities, a resort-style pool & stylish new guestrooms with Internet TVs.",
+      "Category": "Suite",
+      "Tags": [
+        "24-hour front desk service",
+        "continental breakfast",
+        "free wifi"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2009-06-25T00:00:00Z",
+      "Rating": 3.8,
+      "Address": {
+        "StreetAddress": "3301 Veterans Memorial Blvd",
+        "City": "Metairie",
+        "StateProvince": "LA",
+        "PostalCode": "70002",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -90.156708,
+          30.004539
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "HotelId": 26,
+      "Name": "Marquis Plaza & Suites",
+      "Description": "Extend Your Stay. Affordable home away from home, with amenities like free Wi-Fi, full kitchen, and convenient laundry service.",
+      "Category": "Extended-Stay",
+      "Tags": [
+        "free parking",
+        "free wifi",
+        "laundry service"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2012-06-02T00:00:00Z",
+      "Rating": 3.2,
+      "Address": {
+        "StreetAddress": "9255 Towne Centre Dr",
+        "City": "San Diego",
+        "StateProvince": "CA ",
+        "PostalCode": "92121",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -117.206993,
+          32.875282
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "HotelId": 27,
+      "Name": "Super Deluxe Inn & Suites",
+      "Description": "Complimentary Airport Shuttle & WiFi. Book Now and save - Spacious All Suite Hotel, Indoor/Outdoor Pool, Fitness Center, Florida Green certified, Starbucks Coffee, HDTV",
+      "Category": "Suite",
+      "Tags": [
+        "pool",
+        "coffee in lobby",
+        "free wifi"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2007-04-23T00:00:00Z",
+      "Rating": 4.2,
+      "Address": {
+        "StreetAddress": "19575 Biscayne Blvd",
+        "City": "Aventura",
+        "StateProvince": "FL",
+        "PostalCode": "33180",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -80.146729,
+          25.956699
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "HotelId": 28,
+      "Name": "Inoku",
+      "Description": "Eco-friendly from our gardens to table, with a rooftop serenity pool and outdoor seating to take in the sunset. Just steps away from the Convention Center. Located in the heart of downtown with modern rooms with stunning city views, 24-7 dining options, free WiFi and easy valet parking.",
+      "Category": "Luxury",
+      "Tags": [
+        "restaurant",
+        "view",
+        "concierge"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2017-08-07T00:00:00Z",
+      "Rating": 4.9,
+      "Address": {
+        "StreetAddress": "1288 Pear Ave",
+        "City": "Mountain View",
+        "StateProvince": "CA ",
+        "PostalCode": "94043",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.075577,
+          37.415588
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "HotelId": 29,
+      "Name": "Thompson House",
+      "Description": "Stay in the heart of downtown near the business district. Experience the warmth of our hotel. Enjoy free WiFi, local transportation and Milk & Cookies.",
+      "Category": "Budget",
+      "Tags": [
+        "free wifi",
+        "coffee in lobby",
+        "free parking"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2017-05-25T00:00:00Z",
+      "Rating": 2.6,
+      "Address": {
+        "StreetAddress": "9585 SW Washington Square Rd",
+        "City": "Portland",
+        "StateProvince": "OR",
+        "PostalCode": "97223",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.782829,
+          45.448959
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "HotelId": 30,
+      "Name": "Catfish Creek Fishing Cabins",
+      "Description": "Best bites along the Colorado river, but only if you know where to go! Fishing expeditions offered daily. Package deals include professional guides, gear, lunch, and fishing licenses. ",
+      "Category": "Budget",
+      "Tags": [
+        "restaurant",
+        "coffee in lobby",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2018-08-29T00:00:00Z",
+      "Rating": 4.2,
+      "Address": {
+        "StreetAddress": "3309 Esperanza Xing",
+        "City": "Austin",
+        "StateProvince": "TX",
+        "PostalCode": "78758",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -97.726486,
+          30.40016
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "HotelId": 31,
+      "Name": "Athens Residence Hotel",
+      "Description": "All of the suites feature full-sized kitchens stocked with cookware, separate living and sleeping areas and sofa beds. Some of the larger rooms have fireplaces. Experience real country hospitality in the heart of bustling Nashville. The most vibrant music scene in the world is just outside your front door.",
+      "Category": "Extended-Stay",
+      "Tags": [
+        "laundry service",
+        "restaurant",
+        "free parking"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2018-10-05T00:00:00Z",
+      "Rating": 2.7,
+      "Address": {
+        "StreetAddress": "2126 Abbott Martin Rd",
+        "City": "Nashville",
+        "StateProvince": "TN",
+        "PostalCode": "37215",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -86.816017,
+          36.107281
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "HotelId": 32,
+      "Name": "Goldmoor Inn",
+      "Description": "AAA Four Diamond Resort. Nestled on six beautifully landscaped acres, located 2 blocks from the park. Unwind at the spa and indulge in art tours on site.",
+      "Category": "Suite",
+      "Tags": [
+        "continental breakfast",
+        "free parking",
+        "pool"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2011-01-31T00:00:00Z",
+      "Rating": 2.8,
+      "Address": {
+        "StreetAddress": "1414 NW Northrup St",
+        "City": "Portland",
+        "StateProvince": "OR",
+        "PostalCode": "97209",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.685928,
+          45.531139
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "HotelId": 33,
+      "Name": "Mottelers Thunderbird Motel",
+      "Description": "Book Now & Save. Clean, Comfortable rooms at the lowest price. Enjoy complimentary coffee and tea in common areas.",
+      "Category": "Budget",
+      "Tags": [
+        "coffee in lobby",
+        "free parking",
+        "free wifi"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2014-01-30T00:00:00Z",
+      "Rating": 4.4,
+      "Address": {
+        "StreetAddress": "1555 Broadway St",
+        "City": "Detroit",
+        "StateProvince": "MI",
+        "PostalCode": "48226",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -83.049103,
+          42.336109
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "HotelId": 34,
+      "Name": "Cap'n Jack's Waterfront Inn",
+      "Description": "Every stay starts with a warm cookie. Amenities like the Counting Sheep sleep experience, our Wake-up glorious breakfast buffet and spacious workout facilities await.",
+      "Category": "Budget",
+      "Tags": [
+        "restaurant",
+        "laundry service",
+        "coffee in lobby"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2017-04-19T00:00:00Z",
+      "Rating": 3.4,
+      "Address": {
+        "StreetAddress": "1500 New Britain Ave",
+        "City": "West Hartford",
+        "StateProvince": "CT",
+        "PostalCode": "06110",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -72.761261,
+          41.725285
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "HotelId": 35,
+      "Name": "Suites At Bellevue Square",
+      "Description": "Comfortable city living in the very center of downtown Bellevue. Newly reimagined, this hotel features apartment-style suites with sleeping, living and work spaces. Located across the street from the Light Rail to downtown. Free shuttle to the airport.",
+      "Category": "Extended-Stay",
+      "Tags": [
+        "laundry service",
+        "view",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2018-01-19T00:00:00Z",
+      "Rating": 4.0,
+      "Address": {
+        "StreetAddress": "11025 NE 8th St",
+        "City": "Bellevue",
+        "StateProvince": "WA",
+        "PostalCode": "98004",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.193008,
+          47.61702
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "HotelId": 36,
+      "Name": "Pelham Hotel",
+      "Description": "Stunning Downtown Hotel with indoor Pool. Ideally located close to theatres, museums and the convention center. Indoor Pool and Sauna and fitness centre. Popular Bar & Restaurant",
+      "Category": "Luxury",
+      "Tags": [
+        "bar",
+        "pool",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2015-10-31T00:00:00Z",
+      "Rating": 3.5,
+      "Address": {
+        "StreetAddress": "6465 N Quail Hollow Rd",
+        "City": "Memphis",
+        "StateProvince": "TN",
+        "PostalCode": "38120",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -89.847656,
+          35.104061
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "HotelId": 37,
+      "Name": "Commander Hotel",
+      "Description": "Right in the heart of campus. From meetings in town or gameday, enjoy our prime location between the union and steps away from the stadium.",
+      "Category": "Budget",
+      "Tags": [
+        "free parking",
+        "coffee in lobby",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "2014-02-24T00:00:00Z",
+      "Rating": 2.8,
+      "Address": {
+        "StreetAddress": "2045 Lafayette St",
+        "City": "Santa Clara",
+        "StateProvince": "CA ",
+        "PostalCode": "95050",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -121.946564,
+          37.362087
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "HotelId": 38,
+      "Name": "Lady Of The Lake B & B",
+      "Description": "Nature is Home on the beach. Explore the shore by day, and then come home to our shared living space to relax around a stone fireplace, sip something warm, and explore the library by night. Save up to 30 percent. Valid Now through the end of the year. Restrictions and blackout may apply.",
+      "Category": "Boutique",
+      "Tags": [
+        "laundry service",
+        "concierge",
+        "free parking"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2017-06-02T00:00:00Z",
+      "Rating": 4.7,
+      "Address": {
+        "StreetAddress": "20 W Kinzie St",
+        "City": "Chicago",
+        "StateProvince": "IL",
+        "PostalCode": "60654",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -87.62864,
+          41.88951
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "HotelId": 39,
+      "Name": "Whitefish Lodge & Suites",
+      "Description": "Located on in the heart of the forest. Enjoy Warm Weather, Beach Club Services, Natural Hot Springs, and our signature hot stone massage in the Cathedral of Firs. Relax in the meditation gardens, or join new friends around the communal firepit. Weekend evening entertainment on the patio features special guest musicians or poetry readings.",
+      "Category": "Resort and Spa",
+      "Tags": [
+        "continental breakfast",
+        "pool",
+        "restaurant"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2002-05-14T00:00:00Z",
+      "Rating": 2.4,
+      "Address": {
+        "StreetAddress": "3000 E 1st Ave,",
+        "City": "Denver",
+        "StateProvince": "CO",
+        "PostalCode": "80206",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -104.952133,
+          39.717941
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "HotelId": 40,
+      "Name": "Trails End Motel",
+      "Description": "Only 8 miles from Downtown. On-site bar/restaurant, Free hot breakfast buffet, Free wireless internet, All non-smoking hotel. Only 15 miles from airport.",
+      "Category": "Budget",
+      "Tags": [
+        "bar",
+        "free wifi",
+        "restaurant"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2017-01-18T00:00:00Z",
+      "Rating": 3.2,
+      "Address": {
+        "StreetAddress": "7014 E Camelback Rd",
+        "City": "Scottsdale",
+        "StateProvince": "AZ",
+        "PostalCode": "85251",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -111.929405,
+          33.503067
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "HotelId": 41,
+      "Name": "Ocean Air Motel",
+      "Description": "Oceanfront hotel overlooking the beach features rooms with a private balcony and 2 indoor and outdoor pools. Inspired by the natural beauty of the island, each room includes an original painting of local scenes by the owner. Rooms include a mini fridge, Keurig coffee maker, and flatscreen TV. Various shops and art entertainment are on the boardwalk, just steps away.",
+      "Category": "Suite",
+      "Tags": [
+        "pool",
+        "air conditioning",
+        "bar"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2015-05-10T00:00:00Z",
+      "Rating": 3.5,
+      "Address": {
+        "StreetAddress": "1450 Ala Moana Blvd 2238 Ala Moana Ctr",
+        "City": "Honolulu",
+        "StateProvince": "HI",
+        "PostalCode": "96814",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -157.846817,
+          21.295841
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "HotelId": 42,
+      "Name": "Bar C Resort & Campground",
+      "Description": "Bar C is nestled on 20 unspoiled acres on a private cove of Rock Bottom Lake. We feature both lodging and campground accommodations to suit just about every taste. Even though we are out of the traffic of the city, getting there is only a short drive away.",
+      "Category": "Resort and Spa",
+      "Tags": [
+        "view",
+        "coffee in lobby",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2018-01-14T00:00:00Z",
+      "Rating": 3.4,
+      "Address": {
+        "StreetAddress": "1649 Shoreline Dr",
+        "City": "Boise",
+        "StateProvince": "ID",
+        "PostalCode": "83702",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -116.220711,
+          43.616871
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "HotelId": 43,
+      "Name": "Johnson's Resort",
+      "Description": "Family oriented resort located in the heart of the northland. Operated since 1962 by the Smith family, we have grown into one of the largest family resorts in the state. The home of excellent Smallmouth Bass fishing with 10 small cabins, we're a home not only to fishermen but their families as well. Rebuilt in the early 2000's, all of our cabins have all the comforts of home. Sporting a huge beach with multiple water toys for those sunny summer days and a Lodge full of games for when you just can't swim anymore, there's always something for the family to do. A full marina offers watercraft rentals, boat launch, powered dock slips, canoes (free to use), & fish cleaning facility. Rent pontoons, 14' fishing boats, 16' fishing rigs or jet ski's for a fun day or week on the water.",
+      "Category": "Resort and Spa",
+      "Tags": [
+        "24-hour front desk service",
+        "pool",
+        "coffee in lobby"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2002-02-21T00:00:00Z",
+      "Rating": 4.8,
+      "Address": {
+        "StreetAddress": "4000 Great Plains Dr",
+        "City": "Fargo",
+        "StateProvince": "ND",
+        "PostalCode": "58104",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -96.845932,
+          46.814121
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "HotelId": 44,
+      "Name": "Monrovia Motor Inn",
+      "Description": "Close to historic sites, local attractions, and urban parks. Free Shuttle to the airport and casinos. Free breakfast and WiFi.",
+      "Category": "Budget",
+      "Tags": [
+        "24-hour front desk service",
+        "continental breakfast",
+        "free wifi"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2016-07-12T00:00:00Z",
+      "Rating": 2.7,
+      "Address": {
+        "StreetAddress": "3401 Nicholasville Rd",
+        "City": "Lexington",
+        "StateProvince": "KY",
+        "PostalCode": "40503",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -84.527771,
+          37.989769
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "HotelId": 45,
+      "Name": "Arcadia Resort & Restaurant",
+      "Description": "The largest year-round resort in the area offering more of everything for your vacation – at the best value! What can you enjoy while at the resort, aside from the mile-long sandy beaches of the lake? Check out our activities sure to excite both young and young-at-heart guests. We have it all, including being named “Property of the Year” and a “Top Ten Resort” by top publications.",
+      "Category": "Resort and Spa",
+      "Tags": [
+        "pool",
+        "bar",
+        "restaurant"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2015-05-08T00:00:00Z",
+      "Rating": 3.5,
+      "Address": {
+        "StreetAddress": "320 Westlake Ave N",
+        "City": "Seattle",
+        "StateProvince": "WA",
+        "PostalCode": "98109",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.338181,
+          47.621201
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "HotelId": 46,
+      "Name": "Swan Point Inn",
+      "Description": "We serve a continental-style breakfast each morning, featuring a variety of food and drinks. Our locally made, oh-so-soft, caramel cinnamon rolls are a favorite with our guests. Other breakfast items include coffee, orange juice, milk, cereal, instant oatmeal, bagels, and muffins.",
+      "Category": "Budget",
+      "Tags": [
+        "continental breakfast",
+        "free wifi",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2006-02-07T00:00:00Z",
+      "Rating": 3.6,
+      "Address": {
+        "StreetAddress": "1 Memorial Dr",
+        "City": "Cambridge",
+        "StateProvince": "MA",
+        "PostalCode": "02142",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -71.08123,
+          42.36137
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "HotelId": 47,
+      "Name": "South Court Inn",
+      "Description": "Situated conveniently at the north end of the village, the inn is just a short walk from the lake, offering reasonable rates and all the comforts home inlcuding living room suites and functional kitchens. Pets are welcome.",
+      "Category": "Extended-Stay",
+      "Tags": [
+        "laundry service",
+        "free wifi",
+        "free parking",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2018-01-03T00:00:00Z",
+      "Rating": 2.5,
+      "Address": {
+        "StreetAddress": "700 Bellevue Way",
+        "City": "Bellevue",
+        "StateProvince": "WA",
+        "PostalCode": "98004",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -122.201195,
+          47.616989
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "HotelId": 48,
+      "Name": "Nordick's B & B",
+      "Description": "Only 90 miles (about 2 hours) from the nation's capital and nearby most everything the historic valley has to offer. Hiking? Wine Tasting? Exploring the caverns? It's all nearby and we have specially priced packages to help make our B&B your home base for fun while visiting the valley.",
+      "Category": "Boutique",
+      "Tags": [
+        "continental breakfast",
+        "air conditioning",
+        "free parking"
+      ],
+      "ParkingIncluded": false,
+      "LastRenovationDate": "1998-02-19T00:00:00Z",
+      "Rating": 4.5,
+      "Address": {
+        "StreetAddress": "1401 I St NW",
+        "City": "Washington D.C.",
+        "StateProvince": "",
+        "PostalCode": "20005",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -77.03241,
+          38.90166
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "HotelId": 49,
+      "Name": "Old Carrabelle Hotel",
+      "Description": "Spacious rooms, glamorous suites and residences, rooftop pool, walking access to shopping, dining, entertainment and the city center. Each room comes equipped with a microwave, a coffee maker and a minifridge. In-room entertainment includes complimentary W-Fi and flat-screen TVs. ",
+      "Category": "Suite",
+      "Tags": [
+        "air conditioning",
+        "laundry service",
+        "24-hour front desk service"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2013-01-27T00:00:00Z",
+      "Rating": 2.7,
+      "Address": {
+        "StreetAddress": "1100 S Hayes St",
+        "City": "Arlington",
+        "StateProvince": "VA",
+        "PostalCode": "22202",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -77.060066,
+          38.863659
+        ]
+      }
+    },
+    {
+      "id": "50",
+      "HotelId": 50,
+      "Name": "Summer Wind Resort",
+      "Description": "The hotel rooms and suites offer the perfect blend of beauty and elegance. Our rooms will elevate your stay, whether you're traveling for business, celebrating a honeymoon, or just looking for a remarkable getaway. With views of the valley or the iconic fountains right from your suite, your stay will be nothing short of unforgettable.",
+      "Category": "Suite",
+      "Tags": [
+        "coffee in lobby",
+        "free wifi",
+        "view"
+      ],
+      "ParkingIncluded": true,
+      "LastRenovationDate": "2012-04-04T00:00:00Z",
+      "Rating": 4.7,
+      "Address": {
+        "StreetAddress": "7633 E 63rd Pl",
+        "City": "Tulsa",
+        "StateProvince": "OK",
+        "PostalCode": "74133",
+        "Country": "USA"
+      },
+      "Location": {
+        "type": "Point",
+        "coordinates": [
+          -95.889305,
+          36.072445
+        ]
+      }
+    }
+  ]
+}
